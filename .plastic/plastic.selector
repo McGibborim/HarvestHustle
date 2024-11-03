@@ -1,0 +1,3 @@
+repository "TigerHacks2024@Gibborim@cloud"
+  path "/"
+    smartbranch "/main"
